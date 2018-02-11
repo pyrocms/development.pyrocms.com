@@ -34,9 +34,7 @@
     { "type": "vcs", "url": "https://github.com/anomalylabs/templates-module" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/throttle-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/ups_shipping_method-extension" },
-    { "type": "vcs", "url": "https://github.com/anomalylabs/usps_shipping_method-extension" },
-    { "type": "vcs", "url": "https://github.com/anomalylabs/video-field_type" },
-    { "type": "vcs", "url": "https://github.com/anomalylabs/videos-module" }
+    { "type": "vcs", "url": "https://github.com/anomalylabs/usps_shipping_method-extension" }
   ],
   "output-dir": "public",
   "require-all": true
