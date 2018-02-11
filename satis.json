@@ -1,5 +1,5 @@
 {
-  "name": "First-party addons from the makers of Pyro. Unlimited licensing for <span class=\"tag tag-danger\">PRO</span> addons require a <a href=\"https://pyrocms.com/pro\" target=\"_blank\">PRO subscription</a>.",
+  "name": "Addons from the makers of Pyro that are in active development.",
   "homepage": "https://packages.pyrocms.com",
   "repositories": [
     { "type": "vcs", "url": "https://github.com/anomalylabs/authorizenet_aim_gateway-extension" },
