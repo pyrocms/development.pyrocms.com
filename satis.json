@@ -4,6 +4,7 @@
   "repositories": [
     { "type": "vcs", "url": "https://github.com/anomalylabs/authorizenet_aim_gateway-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/basic_checkout-extension" },
+    { "type": "vcs", "url": "https://github.com/anomalylabs/blocks-module" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/box_adapter-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/carts-module" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/checkouts-module" },
