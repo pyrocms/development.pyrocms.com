@@ -29,7 +29,6 @@
     { "type": "vcs", "url": "https://github.com/anomalylabs/store-module" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/streams_platform_provider-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/taxes-module" },
-    { "type": "vcs", "url": "https://github.com/anomalylabs/templates-module" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/throttle-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/ups_shipping_method-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/usps_shipping_method-extension" }
