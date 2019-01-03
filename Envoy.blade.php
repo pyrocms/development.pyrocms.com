@@ -1,16 +1,16 @@
-@servers(['web' => 'root@162.243.76.10', 'local' => 'ryanthompson@127.0.0.1'])
+@servers(['web' => 'pyrocms@68.183.132.200'])
 
 @task('push', ['on' => 'web'])
-cd /usr/share/nginx/html/development/
+cd /home/pyrocms/domains/development.pyrocms.com/
 git pull
 @endtask
 
 @task('update', ['on' => 'web'])
-cd /usr/share/nginx/html/development/
+cd /home/pyrocms/domains/development.pyrocms.com/
 composer update -o
 @endtask
 
 @task('build', ['on' => 'web'])
-cd /usr/share/nginx/html/development/
+cd /home/pyrocms/domains/development.pyrocms.com/
 php bin/satis build
 @endtask
