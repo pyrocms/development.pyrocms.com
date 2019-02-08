@@ -16,6 +16,7 @@
     { "type": "vcs", "url": "https://github.com/anomalylabs/flat_rate_shipping_method-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/free_shipping_discount-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/html_widget-extension" },
+    { "type": "vcs", "url": "https://github.com/anomalylabs/image_slider_block-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/mail_channel-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/notifications-module" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/orders-module" },
