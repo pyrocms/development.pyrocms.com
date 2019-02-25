@@ -31,6 +31,7 @@
     { "type": "vcs", "url": "https://github.com/anomalylabs/sites-module" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/slack_channel-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/streams_platform_provider-extension" },
+    { "type": "vcs", "url": "https://github.com/anomalylabs/system-module" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/taxes-module" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/throttle-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/ups_shipping_method-extension" },
