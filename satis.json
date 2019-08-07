@@ -25,6 +25,7 @@
     { "type": "vcs", "url": "https://github.com/anomalylabs/product_discount_filter-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/products-module" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/row_block-extension" },
+    { "type": "vcs", "url": "https://github.com/anomalylabs/search-module" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/section_block-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/shipping-module" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/sites-module" },
