@@ -4,7 +4,7 @@
   "repositories": [
     { "type": "vcs", "url": "https://github.com/anomalylabs/basic_checkout-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/box_adapter-extension" },
-    { "type": "vcs", "url": "https://github.com/anomalylabs/calendar-module" },
+    { "type": "vcs", "url": "https://github.com/anomalylabs/calendars-module" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/carts-module" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/checkouts-module" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/column_block-extension" },
