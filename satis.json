@@ -20,6 +20,7 @@
     { "type": "vcs", "url": "https://github.com/anomalylabs/html_widget-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/image_slider_block-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/mail_channel-extension" },
+    { "type": "vcs", "url": "https://github.com/anomalylabs/maker-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/notifications-module" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/orders-module" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/partials-module" },
