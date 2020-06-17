@@ -17,6 +17,7 @@
     { "type": "vcs", "url": "https://github.com/anomalylabs/flat_rate_shipping_method-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/flow-theme" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/free_shipping_discount-extension" },
+    { "type": "vcs", "url": "https://github.com/anomalylabs/ftp_adapter-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/html_widget-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/httpcache-extension" },
     { "type": "vcs", "url": "https://github.com/anomalylabs/image_slider_block-extension" },
